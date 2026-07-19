@@ -1,0 +1,31 @@
+{
+    "vim.useSystemClipboard": true,
+    "code-runner.runInTerminal": true,
+    "git.autofetch": true,
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "git.confirmSync": false,
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.editor.empty.hint": "hidden",
+
+
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "settingsSync.ignoredSettings": [],
+    "dotnet.completion.showCompletionItemsFromUnimportedNamespaces": false,
+    "python.createEnvironment.trigger": "off",
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "git.enableSmartCommit": true,
+    "editor.foldingHighlight": false,
+    "claudeCode.preferredLocation": "panel",
+    "workbench.colorTheme": "Kanagawa",
+    "workbench.activityBar.location": "top",
+    "vim.foldfix": true,
+    "workbench.sideBar.location": "right",
+    "settingsSync.ignoredExtensions": [],
+    "chat.disableAIFeatures": true
+}
